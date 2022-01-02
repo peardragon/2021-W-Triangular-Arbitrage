@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:\\Users\\BaeJaeyong\\anaconda3\\envs\\py37_64\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "[py37_64]",
+ "language": "python"
+}

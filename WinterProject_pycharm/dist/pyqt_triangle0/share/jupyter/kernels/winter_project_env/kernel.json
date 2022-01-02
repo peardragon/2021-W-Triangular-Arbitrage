@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:\\Users\\BaeJaeyong\\anaconda3\\envs\\winter_project_env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "[winter_proj]",
+ "language": "python"
+}

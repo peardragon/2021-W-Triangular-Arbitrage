@@ -1,0 +1,18 @@
+%%capture
+!pip install --force-reinstall stable-baselines3[extra]
+# !pip install --force-reinstall stable-baselines[mpi]
+!pip install gym
+!pip install -U tensorboard
+!pip install matplotlib==3.1.3
+
+#Import scipy
+import scipy as sci
+#Import matplotlib and associated modules for 3D and animations
+import matplotlib.pyplot as plt
+import numpy as np
+import shutil
+%tensorflow_version 1.x
+import gym
+from gym import spaces
+import scipy.integrate
+pyupbit~=0.2.6

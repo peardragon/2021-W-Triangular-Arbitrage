@@ -1,0 +1,13 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": false,
+    "contrib_nbextensions_help_item/main": false,
+    "codefolding/main": false,
+    "varInspector/main": false,
+    "collapsible_headings/main": false,
+    "execute_time/ExecuteTime": false,
+    "toggle_all_line_numbers/main": false,
+    "toc2/main": false,
+    "jupyter-js-widgets/extension": false
+  }
+}
